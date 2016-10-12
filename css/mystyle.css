@@ -1,0 +1,53 @@
+#hello {
+	color:white;
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+}
+
+#shroff {
+	color:white;
+	font-size: 48px;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+		font-family: 'Oswald', sans-serif !important;
+        background-color: #000000 !important;
+        text-align:center;
+      }
+
+.centered_div {
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.myicon {
+    font-size:48px;
+    color: white !important;
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 0px;
+    margin-left: -200px;
+}
+
+.icon-social-spotify {
+    color: white;
+}
+
+.icon-social-twitter {
+    color: white;
+}
+
+.icon-social-instagram {
+    color: white;
+}

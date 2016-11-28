@@ -29,8 +29,7 @@ body {
 }
 
 .myicon {
-    font-size:48px;
-    color: white !important;
+    font-size:40px;
     height: 200px;
     width: 400px;
     position: fixed;
@@ -49,5 +48,11 @@ body {
 }
 
 .icon-social-instagram {
+    color: white;
+}
+.icon-social-behance {
+    color: white;
+}
+.icon-social-linkedin {
     color: white;
 }

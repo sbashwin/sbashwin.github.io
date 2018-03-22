@@ -1,2 +1,2 @@
-# sbashwin.github.io
-My personal website, checkout all the accounts on my page here to know more about me.
+Namaste! I'm Ashwin Shroff, a self-taught Bengaluru Designer.
+This is my personal website. Feel free to checkout my social media accounts to get to know me more :-)

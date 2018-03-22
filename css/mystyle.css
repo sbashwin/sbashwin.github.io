@@ -6,14 +6,21 @@
 }
 
 #shroff {
+	font-family: 'Lobster', sans-serif !important;
 	color:white;
 	font-size: 48px;
 	margin: 0;
 	padding: 0;
 }
 
+#me {
+	color:white;
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+}
 body {
-		font-family: 'Oswald', sans-serif !important;
+		font-family: 'Quicksand', sans-serif !important;
         background-color: #000000 !important;
         text-align:center;
       }
@@ -33,7 +40,7 @@ body {
     height: 200px;
     width: 400px;
     position: fixed;
-    top: 50%;
+    top: 55%;
     left: 50%;
     margin-top: 0px;
     margin-left: -200px;
